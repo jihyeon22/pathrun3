@@ -34,7 +34,7 @@ CFLAGS	+= -lpthread
 LDFLAGS	+=
 
 OBJS	:= src/pathrun.o
-APP	:= pathrun2
+APP	:= pathrun3
 
 all: all-before	$(APP)
 
